@@ -68,6 +68,7 @@ async function runApplication() {
 runApplication();
 
 console.log("testing using github ui");
+console.log("trying something new");
 
 
 // this is a new comment
